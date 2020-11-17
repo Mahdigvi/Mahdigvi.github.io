@@ -9,7 +9,4 @@ comments: false
 ---
 
 
-Football
-English
-Movies
-Musics
+Football, English, Movie, Music
