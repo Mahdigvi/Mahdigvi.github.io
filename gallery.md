@@ -31,7 +31,10 @@ gallery:
     image_path:  /assets/images/LabExam.jpg
     alt: "LabExam"
     title: "Lab99Exam"   
+
 ---
+
+![LabExam](https://user-images.githubusercontent.com/74285405/106378740-4bb3ad00-63bc-11eb-8fcd-a53cb1da8d2a.JPG)
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
