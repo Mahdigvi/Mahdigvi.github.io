@@ -27,11 +27,10 @@ gallery:
     image_path: /assets/images/5.jpg
     alt: "placeholder image 5"
     title: "Image 5 title caption"
-  - url: /assets/images/LabExam.jpg
-    image_path:  /assets/images/LabExam.jpg
-    alt: "LabExam"
-    title: "Lab99Exam"   
-
+  - url: /assets/images/5.jpg
+    image_path: /assets/images/6.jpg
+    alt: "placeholder image 6"
+    title: "Image 6 title caption" 
 ---
 
 ![LabExam](https://user-images.githubusercontent.com/74285405/106378740-4bb3ad00-63bc-11eb-8fcd-a53cb1da8d2a.JPG)
