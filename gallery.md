@@ -26,7 +26,11 @@ gallery:
   - url: /assets/images/5.jpg
     image_path: /assets/images/5.jpg
     alt: "placeholder image 5"
-    title: "Image 5 title caption"    
+    title: "Image 5 title caption"
+  - url: /assets/images/LabExam.jpg
+    image_path:  /assets/images/LabExam.jpg
+    alt: "LabExam"
+    title: "Lab99Exam"   
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
