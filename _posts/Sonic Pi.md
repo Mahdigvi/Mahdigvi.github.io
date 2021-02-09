@@ -7,6 +7,9 @@ The original idea for doing this was to initially write a program that would pro
 To do so I decided to use Adele's song, Hello, Beat and tried to change it as much as I could.
 Definitely by spending more time it could get way better.
 
-<audio ref='themeSong' src="Mywebsite\assets\Musics\SonicPi.wav" autoPlay loop></audio>
+<audio controls>
+    <source src="Mywebsite\assets\Musics\SonicPi.wav" type = "audio/mp3">
+</audio>
+<br><br>
 ---
 **Post**: This is my Second Post
